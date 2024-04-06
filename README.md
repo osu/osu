@@ -29,6 +29,13 @@
        width = "40" 
        height = "40"/> 
 </a> 
+<a href = "https://en.wikipedia.org/wiki/JavaScript" 
+   target = "_blank"> 
+  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+       alt = "JavaScript"
+       width = "40"
+       height = "40"/>
+</a> 
 <a href = "https://www.mysql.com" 
    target = "_blank"> 
   <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
