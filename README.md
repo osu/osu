@@ -36,6 +36,27 @@
        width = "40"
        height = "40"/>
 </a> 
+<a href = "https://en.wikipedia.org/wiki/C_(programming_language)"
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
+       alt = "C" 
+       width = "40" 
+       height = "40"/> 
+</a> 
+<a href = "https://en.wikipedia.org/wiki/C%2B%2B"
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png"
+       alt = "C++" 
+       width = "40" 
+       height = "40"/> 
+</a> 
+<a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
+       alt = "C#" 
+       width = "40" 
+       height = "40"/> 
+</a> 
 <a href = "https://www.mysql.com" 
    target = "_blank"> 
   <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
