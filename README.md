@@ -76,7 +76,14 @@
        alt="css3" 
        width="40" 
        height="40"/> 
-</a> 
+</a>
+<a href = "https://unity.com/" 
+   target = "_blank"> 
+  <img src = "https://i.redd.it/tu3gt6ysfxq71.png" 
+       alt="unity" 
+       width="40" 
+       height="40"/> 
+</a>
 <a href = "https://git-scm.com" 
    target = "_blank"> 
   <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -101,8 +108,8 @@
 <a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)" 
    target = "_blank"> 
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/240px-Gnu-bash-logo.svg.png" 
-       alt="Bash" 
-       width="40" 
+       alt="bash" 
+       width="60" 
        height="40"/>
 </a>
 <a href = "https://en.wikipedia.org/wiki/Z_shell" 
@@ -112,10 +119,24 @@
        width="40" 
        height="40"/>
 </a>
-<a href = "https://docs.python.org/3/library/tkinter.html" 
+<a href = "https://wingware.com/" 
    target = "_blank"> 
   <img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" 
-       alt="tkinter" 
+       alt="wing" 
+       width="40" 
+       height="40"/>
+</a>
+<a href = "https://www.vim.org/" 
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" 
+       alt="vim" 
+       width="40" 
+       height="40"/>
+</a>
+<a href = "https://www.gnu.org/software/emacs/" 
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" 
+       alt="emacs" 
        width="40" 
        height="40"/>
 </a>
@@ -168,10 +189,10 @@
        width="40" 
        height="40"/> 
 </a>
-<a href = "https://www.notion.so" 
+<a href = "https://en.wikipedia.org/wiki/SPSS" 
    target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" 
-       alt="notion" 
+  <img src = "https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" 
+       alt="SPSS" 
        width="40" 
        height="40"/> 
 </a>
