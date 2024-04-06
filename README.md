@@ -109,7 +109,7 @@
    target = "_blank"> 
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/240px-Gnu-bash-logo.svg.png" 
        alt="bash" 
-       width="60" 
+       width="80" 
        height="40"/>
 </a>
 <a href = "https://en.wikipedia.org/wiki/Z_shell" 
