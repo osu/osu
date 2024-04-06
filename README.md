@@ -20,14 +20,14 @@
        alt = "python"
        width = "40" 
        height = "40"/> 
-</a> 
-<a href = "https://www.java.com"
+</a>
+<a href = "https://en.wikipedia.org/wiki/Node.js"
    target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/226/226777.png"
-       alt = "java" 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"
+       alt = "Node.js"
        width = "40" 
        height = "40"/> 
-</a> 
+</a>
 <a href = "https://en.wikipedia.org/wiki/JavaScript" 
    target = "_blank"> 
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
