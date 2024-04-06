@@ -99,6 +99,20 @@
        width="40" 
        height="40"/>
 </a>
+<a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)" 
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/240px-Gnu-bash-logo.svg.png" 
+       alt="Bash" 
+       width="40" 
+       height="40"/>
+</a>
+<a href = "https://en.wikipedia.org/wiki/Z_shell" 
+   target = "_blank"> 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/240px-Z_Shell_Logo_Color_Vertical.svg.png" 
+       alt="zsh" 
+       width="40" 
+       height="40"/>
+</a>
 <a href = "https://docs.python.org/3/library/tkinter.html" 
    target = "_blank"> 
   <img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" 
