@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>
 
-⚒️ I'm currently a second-year Computer Science student at the University of Alberta.
+⚒️ I'm currently a third-year Computer Science student at the University of Alberta.
 
 
 | **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hasan-khan-412b5829a/) 
