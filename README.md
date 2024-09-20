@@ -200,8 +200,8 @@
 
 <div align="center">
   <a href="https://github.com/ej-lan">
-    <img src="https://github-readme-stats.vercel.app/api?username=osu&show_icons=true&locale=en&theme=github_dark" height="150" alt="ej-lan" />&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osu&theme=dark" height="150" alt="ej-lan" />&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=osu&show_icons=true&locale=en&theme=github_dark" height="150" alt="osu" />&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osu&theme=dark" height="150" alt="osu" />&nbsp;&nbsp;
   </a>
 </div>
 
