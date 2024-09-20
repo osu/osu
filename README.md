@@ -200,7 +200,7 @@
 
 <div align="center">
   <a href="https://github.com/osu">
-    <img src="https://github-readme-stats.vercel.app/api?username=osu&show_icons=true&locale=en&theme=synthwave" height="150" alt="osu" />&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=osu&show_icons=true&locale=en&theme=transparent" height="150" alt="osu" />&nbsp;&nbsp;
   </a>
 </div>
 
