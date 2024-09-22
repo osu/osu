@@ -16,9 +16,6 @@
 
 </div>
 
-<p align="center">
-  <b>Email:</b> hkhan7@ualberta.ca
-</p>
 ## 🚀 Languages and Tools:
 
 <p align = "left"> 
