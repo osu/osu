@@ -8,10 +8,16 @@
 <p align="center">
 ⚒️ I'm currently a third-year Computer Science student at the University of Alberta ⚒️
 
-| **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hasan-khan-412b5829a/) 
-| --- | --- |
-| **Email:** | hkhan7@ualberta.ca|
+<p align="center">
+  <b>Check out my LinkedIn:</b> 
+  <a href="https://www.linkedin.com/in/hasan-khan-412b5829a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
+<p align="center">
+  <b>Email:</b> hkhan7@ualberta.ca
+</p>
 ## 🚀 Languages and Tools:
 
 <p align = "left"> 
