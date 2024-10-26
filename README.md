@@ -254,6 +254,23 @@
 <li>Used Streamlit to create a user-friendly GUI for displaying application outputs.</li>
         </ul></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/adnansami1992sami/QNNGPD"><b>QNNGPD <b></a></td>
+      <td>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />    
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PYTORCH" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+      </td>
+      <td>
+      <ul>
+<li>This project was made for intel fall 2024 hackathon</li>
+<li>Developed Quantum Neural Networks (QNNs) for analyzing genomic data in personalized medicine to predict disease risks and recommend treatments.</li>
+<li>Implemented a hybrid model integrating classical neural networks (CNNs) and QNNs to handle high-dimensional genomic patterns.</li>
+<li>Utilized Intel Quantum Simulator, OpenVINO, and Intel DevCloud for model training, testing, and edge inference deployment.</li>
+        </ul></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/osu/Recon-Automation"><b>File Automation</b></a></td>
       <td>
