@@ -195,12 +195,96 @@
        width="40" 
        height="40"/> 
 </a>
-<a href = "https://en.wikipedia.org/wiki/SPSS" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" 
-       alt="SPSS" 
-       width="40" 
-       height="40"/> 
+
+<h3>My projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📽️ Projects</b></td>
+      <td><b>🛠️ Tools</b></td>
+      <td><b>📚 Features</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/osu/AI-Powered-Disease-Detection-in-X-Ray-Images"><b>AI Diesease Detection</b></a></td>
+      <td>
+          <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+          <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-brightgreen" />
+          <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+          <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
+          <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy" />
+      </td>
+      <td>
+        <ul>
+        <li>AI-Powered Disease Detection: This project leverages Convolutional Neural Networks (CNNs) for disease detection, focusing on pneumonia in chest X-rays, providing a framework for accurate and early diagnostics.</li>
+        <li>Flexible and Optimized Framework: Includes customization options (data augmentation, hyperparameters, transfer learning) and supports OpenVINO integration for faster inference on Intel hardware.</li>
+        <li>Comprehensive Performance Metrics: Evaluates model performance with accuracy, precision, recall, and AUC, with sample results available for visual inspection and benchmarking.</li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis"><b>Spotify Data Analysis</b></a></td>
+      <td>
+      
+  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
+      </td>
+      <td>
+      <ul>
+<li>Developed an analytical pipeline using Python and SQLite to analyze and visualize Spotify’s top 50 songs of 2021.</li>
+<li>Implemented SQL queries to extract insights, including the top 10 longest songs and average danceability by artist.</li>
+<li>Generated bar and pie charts with Matplotlib for data visualization, automating the process through a Python script.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/osu/Beartracks"><b>Beartracks - Barebones <b></a></td>
+      <td>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />    
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+<li>Developed a student timetable application to manage course enrollments, drops, and display current timetables.</li>
+<li>Integrated user enrollment functionality, allowing new students to be added with admin authentication.</li>
+<li>Used Streamlit to create a user-friendly GUI for displaying application outputs.</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/osu/Recon-Automation"><b>File Automation</b></a></td>
+      <td>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+      </td>
+      <td>
+      <ul>
+<li>Automated File and Data Handling: Automates file extraction, data processing, and Excel manipulations, using libraries like <code>openpyxl</code>, <code>pandas</code>, and <code>win32com</code> (Windows-only) for reconciliation tasks.</li>
+<li>Excel Operations: Formats cells, creates tables, and applies formulas within Excel, leveraging <code>openpyxl</code> and <code>win32com</code> for smooth workflow automation.</li>
+<li>Cross-Platform Note: Designed for Windows, but can be adapted for other platforms by replacing <code>win32com</code> with cross-compatible libraries for Excel handling.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/osu/Maze-Pathfinder"><b>Maze Pathfinder</b></a></td>
+      <td>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+<li>A solvable maze is generated using Kruskal’s algorithm.</li>
+<li>The maze is solved using Dijkstra and A* algorithms.</li>
+<li>Animated pathfinding visualizes the solution path.</li>
+<li>Allows generation of different paths with a button click.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+
 </a>
 
 
