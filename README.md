@@ -10,7 +10,7 @@
 
 <div align="center">
   
-| **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hasan-khan-412b5829a/) |
+| **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pashto/) |
 | --- | --- |
 | **Email:** | hkhan7@ualberta.ca |
 
