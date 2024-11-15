@@ -6,15 +6,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>
 <p align="center">
-⚒️ I'm currently a third-year Computer Science student at the University of Alberta ⚒️
+⚒️ I'm currently a third-year Computer Science and Psychology student at the University of Alberta ⚒️
 
-<div align="center">
-  
-| **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pashto/) |
-| --- | --- |
-| **Email:** | hkhan7@ualberta.ca |
-| **Portfolio/Website** | https://osu.github.io/portfolio |
-</div>
 
 ## 🚀 Languages and Tools:
 
