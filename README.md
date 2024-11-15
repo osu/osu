@@ -4,9 +4,18 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/kuudragang"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>
-<p align="center">
-⚒️ I'm currently a third-year Computer Science and Psychology student at the University of Alberta ⚒️
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>  
+<p align="center">  
+⚒️ I'm currently a third-year Computer Science and Psychology double major at the University of Alberta ⚒️  
+<br>  
+🏆 2x Hackathons (Top 10) 🏆
+<br>  
+🚩 1 Capture the Flag (CTF) 🚩
+<br>  
+🖥️ Passionate about UX/UI design, cybersecurity, cloud computing, and DevOps 🖥️
+</p>  
+
+
 
 
 ## 🚀 Languages and Tools:
