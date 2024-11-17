@@ -219,6 +219,7 @@
   </td>
   <td>
     <ul>
+      <li>natHACKS fall 2024 submission for rehabilitation track made by a group of 6 students from diverse majors</li>
       <li>Analyzes EEG brainwave data from BioAmp EXG Pill to detect focus levels.</li>
       <li>Provides real-time notifications and motivational alerts via an Electron app.</li>
       <li>Integrates with Chromium to monitor focus while watching YouTube or browsing.</li>
