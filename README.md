@@ -1,9 +1,3 @@
-# Welcome!
-  <p align="center">
-  <a href="https://discord.gg/kuudra" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/kuudragang"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>  
 <p align="center">  
 ⚒️ I'm currently a third-year Computer Science and Psychology double major at the University of Alberta ⚒️  
@@ -14,9 +8,16 @@
 <br>  
 🖥️ Passionate about UX/UI design, cybersecurity, cloud computing, and DevOps 🖥️
 </p>  
-
-
-
+<p align="center">
+  <a href="https://discord.com/application-directory/1040668238318669824" alt="Add our discord bot to your server!"><img width="40px" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/kuudra" alt="Join our community"><img width="40px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/kuudragang"><img width="40px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://devpost.com/hkhan7"><img width="40px" alt="devpost" title="devpost" src="https://www.svgrepo.com/show/330293/devpost.svg"/></a>
+  
+</p>
 
 ## 🚀 Languages and Tools:
 
