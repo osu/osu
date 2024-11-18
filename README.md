@@ -324,6 +324,26 @@
         </ul>
       </td>
     </tr>
+  <tr>
+      <td><a href="https://github.com/osu/quiz"><b>Quiz</b></a></td>
+      <td>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-4285F4?style=for-the-badge&logo=sendgrid&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+      <li>A Windows Forms-based quiz application designed with a user-friendly and visually appealing interface.</li>
+      <li>Includes a registration form for users to input their details before starting the quiz.</li>
+      <li>Features a dynamic timer and progress bar for each question to enhance the quiz-taking experience.</li>
+      <li>Customizable background images for both the quiz and registration forms (e.g., <code>joes.png</code>, <code>apd.jpg</code>).</li>
+      <li>Automated email functionality using SendGrid to deliver quiz results directly to the participant's email.</li>
+      <li>📽️ Check out the <a href="https://youtu.be/b5_Xrl0sDsk" target="_blank"><b>demo</b></a> of the application in action.</li>
+      <li>Future plans include integrating AI to dynamically generate quiz questions for an enhanced experience.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 
 </a>
