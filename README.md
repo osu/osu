@@ -19,12 +19,8 @@
   <a href="https://www.patreon.com/kuudragang"><img width="40px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://devpost.com/hkhan7"><img width="40px" alt="devpost" title="devpost" src="https://www.svgrepo.com/show/330293/devpost.svg"/></a>
-  
-</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
+</p>
 <div align="center">
 <picture>
   <source
