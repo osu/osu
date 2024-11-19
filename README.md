@@ -342,7 +342,7 @@
         </ul></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/adnansami1992sami/QNNGPD"><b>🏆NNGPD<b></a></td>
+      <td><a href="https://github.com/adnansami1992sami/QNNGPD"><b>🏆QNNGPD<b></a></td>
       <td>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />    
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" />
