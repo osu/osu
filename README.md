@@ -43,7 +43,13 @@
        alt = "JavaScript"
        width = "40"
        height = "40"/>
-</a> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" 
+       alt="dotnet" 
+       width="40" 
+       height="40"/>
+</a>
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"
    target = "_blank"> 
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
@@ -198,6 +204,63 @@
        width="40" 
        height="40"/> 
 </a>
+<a href="https://www.figma.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" 
+       alt="Figma" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" 
+       alt="Docker" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.azure.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" 
+       alt="Azure" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" 
+       alt="Selinium" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" 
+       alt="dotnet" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" 
+       alt="TensorFlow" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=11643&format=png&color=000000" 
+       alt="arduino" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+       alt="powerbi" 
+       width="40" 
+       height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" 
+       alt="powerbi" 
+       width="40" 
+       height="40"/>
+</a>
+
+
+
 
 <h3>My projects</h3>
 <table>
