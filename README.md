@@ -378,6 +378,23 @@
         </ul></td>
     </tr>
     <tr>
+  <td><a href="https://github.com/osu/simple-X"><b>Simple-X Twitter Mini Project</b></a></td>
+  <td>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  </td>
+  <td>
+    <ul>
+      <li>Developed a barebones Twitter-like application for users to create, search, and interact with tweets.</li>
+      <li>Implemented secure authentication and database integration using SQLite.</li>
+      <li>Built a GUI interface with Tkinter for user-friendly navigation.</li>
+      <li>Handled features like hashtags, followers, user profiles, and tweet feeds.</li>
+      <li>Ensured cross-platform compatibility and parameterized queries to prevent SQL injection.</li>
+    </ul>
+  </td>
+</tr>
+    <tr>
       <td><a href="https://github.com/osu/Recon-Automation"><b>File Automation</b></a></td>
       <td>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
