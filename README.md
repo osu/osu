@@ -346,6 +346,29 @@
 <li>Generated bar and pie charts with Matplotlib for data visualization, automating the process through a Python script.</li>
         </ul>
       </td>
+      <tr>
+  <td><a href="https://github.com/osu/cybersci-2024"><b>CyberSci 2024</b></a></td>
+  <td>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="Cryptography" src="https://img.shields.io/badge/-Cryptography-000000?style=flat-square" />
+    <img alt="Forensics" src="https://img.shields.io/badge/-Forensics-brightgreen" />
+  </td>
+  <td>
+    <ul>
+      <li>Represented University of Alberta in CyberSci 2024 Capture the Flag (CTF) competition.</li>
+      <li>Collaboratively solved cryptography, cloud security, and forensics challenges, ranking in the top tier.</li>
+      <li>Successfully cracked challenges like <b>"Leaked and Loaded"</b> and <b>"Data is the New Currency"</b>.</li>
+      <li>Developed write-ups for solved challenges to guide future participants in tackling similar problems.</li>
+      <li>Enhanced teamwork, critical thinking, and cybersecurity skills while preparing and competing.</li>
+    </ul>
+  </td>
+</tr>
     </tr>
     <tr>
       <td><a href="https://github.com/osu/Beartracks"><b>Beartracks - Barebones <b></a></td>
