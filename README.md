@@ -316,11 +316,10 @@
       <td><a href="https://github.com/osu/AI-Powered-Disease-Detection-in-X-Ray-Images"><b>AI Diesease Detection</b></a></td>
       <td>
           <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+          <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy" />
           <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-          <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-brightgreen" />
-          <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-          <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
-          <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy" />
+          <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+          <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python" />
       </td>
       <td>
         <ul>
@@ -356,8 +355,8 @@
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img alt="Cryptography" src="https://img.shields.io/badge/-Cryptography-000000?style=flat-square" />
-    <img alt="Forensics" src="https://img.shields.io/badge/-Forensics-brightgreen" />
+    <img alt="Cryptography" src="https://img.shields.io/badge/-Cryptography-000000?style=for-the-badge" />
+    <img alt="Forensics" src="https://img.shields.io/badge/-Forensics-brightgreen?style=for-the-badge" />
   </td>
   <td>
     <ul>
@@ -374,7 +373,7 @@
       <td><a href="https://github.com/osu/Beartracks"><b>Beartracks - Barebones <b></a></td>
       <td>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />    
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       </td>
       <td>
       <ul>
@@ -389,8 +388,8 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />    
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="PYTORCH" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas" />
       </td>
       <td>
       <ul>
@@ -421,7 +420,7 @@
       <td><a href="https://github.com/osu/Recon-Automation"><b>File Automation</b></a></td>
       <td>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas" />
       </td>
       <td>
       <ul>
