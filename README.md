@@ -7,7 +7,7 @@
 <br>  
 🏆 2x Hackathons (Top 10) 🏆
 <br>  
-🚩 1 Capture the Flag (CTF) 🚩
+🚩 3 Capture the Flag (CTF) 🚩
 <br>  
 🖥️ Passionate about UX/UI design, cybersecurity, cloud computing, and DevOps 🖥️
 </p>  
