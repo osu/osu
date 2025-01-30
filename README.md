@@ -9,7 +9,7 @@
 <br>  
 🚩 6 Capture the Flag (CTF): Currently doing pointeroverflowctf position 54/2000 🚩
 <br>  
-🖥️ Passionate about UX/UI design, cybersecurity, cloud computing, and DevOps 🖥️
+🖥️ Passionate about Compilers, cybersecurity, cloud computing, and Gpus 🖥️
 </p>  
 <p align="center">
   <a href="https://discord.com/application-directory/1040668238318669824" alt="Add our discord bot to your server!"><img width="40px" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000"/></a>
