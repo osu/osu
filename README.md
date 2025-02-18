@@ -7,7 +7,7 @@
 <br>  
 🏆 2x Hackathons (Top 10) 🏆
 <br>  
-🚩 6 Capture the Flag (CTF): Currently doing pointeroverflowctf position 54/2000 🚩
+🚩 6 Capture the Flag (CTF)🚩
 <br>  
 🖥️ Passionate about Compilers, cybersecurity, cloud computing, and Gpus 🖥️
 </p>  
