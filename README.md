@@ -9,7 +9,7 @@
 <br>  
 🚩 7 Capture the Flag (CTF)🚩
 <br>  
-🖥️ Passionate about Compilers, CyberSecurity, Cloud Computing, and Product Management 🖥️
+🖥️ Passionate about Compilers, CyberSecurity, Cloud Computing, Product Management, and Software Engineering 🖥️
 </p>  
 <p align="center">
   <a href="https://discord.com/application-directory/1040668238318669824" alt="Add our discord bot to your server!"><img width="40px" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000"/></a>
