@@ -7,7 +7,7 @@
 <br>  
 🏆 2x Hackathons (Top 10) 🏆
 <br>  
-🚩 6 Capture the Flag (CTF)🚩
+🚩 7 Capture the Flag (CTF)🚩
 <br>  
 🖥️ Passionate about Compilers, CyberSecurity, Cloud Computing, and Product Management 🖥️
 </p>  
