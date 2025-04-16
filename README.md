@@ -292,6 +292,22 @@
   </thead>
   <tbody>
     <tr>
+  <td><a href="https://github.com/YOUR_USERNAME/gpu_benchmark_project"><b>🚀 GPU Benchmarking Tool)</b></a></td>
+  <td>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  </td>
+  <td>
+    <ul>
+      <li>Benchmarks both HPCDL and simulated gaming workloads for the NVIDIA RTX 4070.</li>
+      <li>Uses PyTorch and `nvidia-smi` to gather performance and utilization metrics.</li>
+      <li>Generates automated CSV reports and supports YAML-based configuration.</li>
+      <li>Modular structure for adding new benchmarks or stress testing tools.</li>
+    </ul>
+  </td>
+</tr>
+    <tr>
   <td><a href="https://github.com/daksh3333/Neuro-Stress-Monitor"><b>🏆FocusBoost</b></a></td>
   <td>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
