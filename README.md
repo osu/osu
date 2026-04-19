@@ -40,246 +40,74 @@
 
 ## 🚀 Languages and Tools:
 
-<p align = "left"> 
-  
-<a href = "https://www.python.org"
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/vsnmYkh/python.png"
-       alt = "python"
-       width = "40" 
-       height = "40"/> 
-</a>
-<a href = "https://en.wikipedia.org/wiki/Node.js"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"
-       alt = "Node.js"
-       width = "60" 
-       height = "40"/> 
-</a>
-<a href = "https://en.wikipedia.org/wiki/JavaScript" 
-   target = "_blank"> 
-  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-       alt = "JavaScript"
-       width = "40"
-       height = "40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" 
-       alt="dotnet" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/C_(programming_language)"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
-       alt = "C" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://en.wikipedia.org/wiki/C%2B%2B"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png"
-       alt = "C++" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
-       alt = "C#" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://www.mysql.com" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
-       alt = "mysql"
-       width = "40"
-       height = "40"/>
-</a> 
-<a href = "https://www.w3.org/html"
-   target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/888/888859.png"
-       alt = "html5"
-       width = "40"
-       height = "40"/> 
-</a> 
-<a href = "https://www.w3schools.com/css"
-   target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/888/888847.png" 
-       alt="css3" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://unity.com/" 
-   target = "_blank"> 
-  <img src = "https://i.redd.it/tu3gt6ysfxq71.png" 
-       alt="unity" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://git-scm.com" 
-   target = "_blank"> 
-  <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-       alt="git" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://github.com" 
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/jJbDW6J/github.png" 
-       alt="GitHub" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Terminal_(macOS)" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" 
-       alt="terminal" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/240px-Gnu-bash-logo.svg.png" 
-       alt="bash" 
-       width="80" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Z_shell" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/240px-Z_Shell_Logo_Color_Vertical.svg.png" 
-       alt="zsh" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://wingware.com/" 
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" 
-       alt="wing" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://www.vim.org/" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" 
-       alt="vim" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://www.gnu.org/software/emacs/" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" 
-       alt="emacs" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://code.visualstudio.com" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" 
-       alt="vscode" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.jetbrains.com/pycharm" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/pycharm.png" 
-       alt="pycharm" 
-       width="40" 
-       height="40"/> 
-</a>
-  <a href = "https://www.photoshop.com/en" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/434767316b96f7729fddf13409a67dbb48c15777/5952d/images/icon-pack/photoshop.svg" 
-       alt="photoshop" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/word" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" 
-       alt="msword" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" 
-       alt="msexcel" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/powerpoint" 
-   target = "_blank">
-  <img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" 
-       alt="mspowerpoint"
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" 
-   target = "_blank">
-  <img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" 
-       alt="msonenote" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href="https://www.figma.com" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" 
-       alt="Figma" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" 
-       alt="Docker" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.azure.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" 
-       alt="Azure" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" 
-       alt="Selinium" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" 
-       alt="dotnet" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" 
-       alt="TensorFlow" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=11643&format=png&color=000000" 
-       alt="arduino" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
-       alt="powerbi" 
-       width="40" 
-       height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" 
-       alt="powerbi" 
-       width="40" 
-       height="40"/>
-</a>
-
-
-
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+</p>
 
 <h3>My projects</h3>
 <table>
