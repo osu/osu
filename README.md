@@ -5,7 +5,7 @@
 <p align="center">  
 ⚒️ I'm currently a fourth-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">nvidia</a> as a Software Engineer Intern. ⚒️  
 <br>  
-🏆 2x Hackathons (Top 10) 🏆
+🏆 5x Hackathons (Top 10) 🏆
 <br>  
 🚩 7 Capture the Flag (CTF)🚩
 <br>  
