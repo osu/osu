@@ -3,7 +3,7 @@
 <p align="center">  
 ⚒️ I'm currently a fourth-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">NVIDIA</a> as a Software Engineer Intern. ⚒️  
 <br>  
-🛠️ I built <a href="https://discord.com/application-directory/1040668238318669824" target="_blank">Kuudra Gang</a>, a Discord bot and community platform used across 15,000+ servers.  
+I built <a href="https://discord.com/application-directory/1040668238318669824" target="_blank">Kuudra Gang</a>, a Discord bot and community platform used across 15,000+ servers.  
 <br>  
 🏆 5x Hackathons (Top 10) 🏆
 <br>  
