@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="linkedinuu.gif" alt="Banner" width="100%">
-</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>  
+
 <p align="center">  
-⚒️ I'm currently a fourth-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">nvidia</a> as a Software Engineer Intern. ⚒️  
+⚒️ I'm currently a fourth-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">NVIDIA</a> as a Software Engineer Intern. ⚒️  
+<br>  
+🛠️ I built <a href="https://discord.com/application-directory/1040668238318669824" target="_blank">Kuudra Gang</a>, a Discord bot and community platform used across 15,000+ servers.  
 <br>  
 🏆 5x Hackathons (Top 10) 🏆
 <br>  
-🚩 7 Capture the Flag (CTF)🚩
+🚩 7 Capture the Flag (CTF) 🚩
 <br>  
 🖥️ Passionate about Compilers, CyberSecurity, Cloud Computing, Product Management, and Software Engineering 🖥️
 </p>  
+
 <p align="center">
   <a href="https://discord.com/application-directory/1040668238318669824" alt="Add our discord bot to your server!"><img width="40px" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,8 +20,8 @@
   <a href="https://www.patreon.com/kuudragang"><img width="40px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://devpost.com/hkhan7"><img width="40px" alt="devpost" title="devpost" src="https://www.svgrepo.com/show/330293/devpost.svg"/></a>
-
 </p>
+
 <div align="center">
 <picture>
   <source
