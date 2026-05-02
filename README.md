@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>  
 <p align="center">  
-⚒️ I'm currently a third-year Computer Science major at the University of Alberta working at <a href="https://www.sap.com/" target="_blank">SAP</a> as a Software Engineer Intern. ⚒️  
+⚒️ I'm currently a third-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">nvidia</a> as a Software Engineer Intern. ⚒️  
 <br>  
 🏆 2x Hackathons (Top 10) 🏆
 <br>  
