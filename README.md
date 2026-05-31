@@ -9,7 +9,7 @@ I built <a href="https://discord.com/application-directory/1040668238318669824" 
 <br>  
 🚩 7 Capture the Flag (CTF) 🚩
 <br>  
-🖥️ Passionate about Compilers, CyberSecurity, Cloud Computing, Product Management, and Software Engineering 🖥️
+🖥️ Passionate about AI, Compilers, Cloud Computing, and Systems 🖥️
 </p>  
 
 <p align="center">
