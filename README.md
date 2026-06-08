@@ -1,37 +1,58 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hasan</h1>  
-
-<p align="center">  
-⚒️ I'm currently a fourth-year Computer Science major at the University of Alberta working at <a href="https://www.nvidia.com/" target="_blank">NVIDIA</a> as a Software Engineer Intern. ⚒️  
-<br>  
-I built <a href="https://discord.com/application-directory/1040668238318669824" target="_blank">Kuudra Gang</a>, a Discord bot and community platform used across 15,000+ servers.  
-<br>  
-🏆 5x Hackathons (Top 10) 🏆
-<br>  
-🚩 7 Capture the Flag (CTF) 🚩
-<br>  
-🖥️ Passionate about AI, Compilers, Cloud Computing, and Systems 🖥️
-</p>  
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="wave">, I'm Hasan
+</h1>
 
 <p align="center">
-  <a href="https://discord.com/application-directory/1040668238318669824" alt="Add our discord bot to your server!"><img width="40px" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/kuudra" alt="Join our community"><img width="40px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/kuudragang"><img width="40px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://devpost.com/hkhan7"><img width="40px" alt="devpost" title="devpost" src="https://www.svgrepo.com/show/330293/devpost.svg"/></a>
+  Fourth-year Computer Science student at the University of Alberta and Software Engineer Intern at
+  <a href="https://www.nvidia.com/">NVIDIA</a>.
+  <br>
+  Builder of <a href="https://discord.com/application-directory/1040668238318669824">Kuudra Gang</a>,
+  a Discord bot and community platform used across 15,000+ servers.
+  <br>
+  Interested in AI, full-stack engineering, compilers, cloud infrastructure, systems, and security.
 </p>
 
-## 🚀 Languages and Tools
+<p align="center">
+  <a href="https://discord.com/application-directory/1040668238318669824" title="Add Kuudra Gang to your server">
+    <img width="40" src="https://img.icons8.com/?size=100&id=idRFhhV4K2qO&format=png&color=000000" alt="Discord bot">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/kuudra" title="Join the Kuudra community">
+    <img width="40" src="https://i.imgur.com/OViZO8J.png" alt="Discord community">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.patreon.com/kuudragang" title="Patreon">
+    <img width="40" src="https://i.imgur.com/0uVwkoZ.png" alt="Patreon">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/hkhan7" title="Devpost">
+    <img width="40" src="https://www.svgrepo.com/show/330293/devpost.svg" alt="Devpost">
+  </a>
+</p>
+
+## Highlights
+
+- Software Engineer Intern at NVIDIA.
+- Built and maintained Kuudra Gang, a Discord bot and community platform used across 15,000+ servers.
+- 5x hackathon top-10 participant.
+- Competed in 7 Capture the Flag competitions.
+- Focused on AI, full-stack systems, cloud infrastructure, compilers, and security.
+
+## Languages and Tools
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Cloud, DevOps, and Data
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -51,12 +72,15 @@ I built <a href="https://discord.com/application-directory/1040668238318669824" 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Web, Testing, and ML
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 <h3>My projects</h3>
