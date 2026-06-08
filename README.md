@@ -22,23 +22,6 @@ I built <a href="https://discord.com/application-directory/1040668238318669824" 
   <a href="https://devpost.com/hkhan7"><img width="40px" alt="devpost" title="devpost" src="https://www.svgrepo.com/show/330293/devpost.svg"/></a>
 </p>
 
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
-
 ## 🚀 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
