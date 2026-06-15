@@ -37,7 +37,7 @@
 - 5x hackathon top-10 participant.
 - Competed in 7 Capture the Flag competitions.
 - Focused on AI, full-stack systems, cloud infrastructure, compilers, and security.
-
+- The biggest tryhard you will ever meet.
 ## Languages and Tools
 
 ### Languages
