@@ -9,7 +9,7 @@
   Builder of <a href="https://discord.com/application-directory/1040668238318669824">Kuudra Gang</a>,
   a Discord bot and community platform used across 15,000+ servers.
   <br>
-  Interested in AI, full-stack engineering, compilers, cloud infrastructure, systems, and security.
+  Interested in AI, full-stack engineering, cloud infrastructure and security.
 </p>
 
 <p align="center">
