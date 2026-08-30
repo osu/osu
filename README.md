@@ -32,11 +32,8 @@
 
 ## Highlights
 
-- Software Engineer Intern at NVIDIA.
+- Software Engineer Intern at NVIDIA, SAP.
 - Built and maintained Kuudra Gang, a Discord bot and community platform used across 15,000+ servers.
-- 5x hackathon top-10 participant.
-- Competed in 7 Capture the Flag competitions.
-- Focused on AI, full-stack systems, cloud infrastructure, and security.
 - The biggest tryhard you will ever meet.
 ## Languages and Tools
 
